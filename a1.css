@@ -1,0 +1,102 @@
+.container {
+    display: flex;
+    top:200px;
+    left:500px;
+    position: relative;
+   
+}
+
+.title {
+    
+    font: 50px Arial, sans-serif;
+    font-weight: bolder;
+    float: left;
+    
+}
+.ttl1 {
+    
+  font-size:50px;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight:100;
+    
+}
+.container2 {
+    display: flex;
+    left:0px;
+    position: relative;
+   
+}
+.addList {
+
+  font-size:40px;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight:100;
+  right:800px;
+  position: absolute;
+}
+.div1 {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    top:250px;
+    left: 500px;
+    border-style: solid;
+    border-color: coral;
+    position: relative;
+    box-shadow: 2px 0px 8px black;
+}
+.div2 {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    left:100px;
+    top:250px;
+    left: 600px;
+    border-style: solid;
+    border-color: coral;
+    position: relative;
+    box-shadow: 2px 0px 8px black;
+}
+.div3 {
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    left:100px;
+    left: 700px;
+    top:250px;
+    border-style: solid;
+    border-color: coral;
+    position: relative;
+    box-shadow: 2px 0px 8px black;
+}
+
+.in1 {
+    position: absolute;
+    top:150px;
+    left:50px;
+    font-size: 30px;
+    color: red;
+
+}
+
+.in2 {
+    position: absolute;
+    top:150px;
+    left:50px;
+    font-size: 30px;
+    color: red;
+
+}
+.in3 {
+    position: absolute;
+    top:150px;
+    left:50px;
+    font-size: 30px;
+    color: red;
+
+}
+
+.fa-plus {
+    color: red;
+    border-radius: 50%;
+}

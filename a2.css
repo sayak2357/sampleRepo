@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    top:200px;
+    left:500px;
+    position: relative;
+   
+}
+
+.title {
+    
+    font: 50px Arial, sans-serif;
+    font-weight: bolder;
+    float: left;
+    
+}
+.ttl1 {
+    
+  font-size:50px;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight:100;
+    
+}
+
+.div1 {
+    background-color: white;
+    height: 400px;
+    width: 400px;
+    top:100px;
+    margin: auto;
+    border-style: solid;
+    border-color: coral;
+    position: absolute;
+    box-shadow: 2px 0px 8px black;
+}
+
+.in1 {
+    position: absolute;
+    top:150px;
+    left:50px;
+    font-size: 30px;
+    color: red;
+
+}
+.hr {
+    top:250px;
+    left:100px;
+    position: relative;
+}
+
+.fa-plus {
+    color: red;
+    border-radius: 50%;
+}
